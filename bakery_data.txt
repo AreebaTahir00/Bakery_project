@@ -1,0 +1,7 @@
+Name|Price|Quantity
+Candy|10.00|6
+Chocolate|40.00|10
+Gala|30.00|5
+chocio|40.00|6
+Coffee|120.00|5
+Coke|100.00|5
